@@ -1,1 +1,6 @@
 venv
+.venv
+old_files
+/old_files
+old_files/*
+__pycache__/
