@@ -436,7 +436,7 @@ class VisualMemApp(wx.Frame):
         self.main_sizer.Clear(True)
 
         # Add spacer at the top
-        self.main_sizer.AddSpacer(50)  # Adds 20 pixels of vertical space
+        self.main_sizer.AddSpacer(70)  # Adds 20 pixels of vertical space
 
         # Title
         title = wx.StaticText(self.panel, label="SPELET ÄR ÖVER!!!")
